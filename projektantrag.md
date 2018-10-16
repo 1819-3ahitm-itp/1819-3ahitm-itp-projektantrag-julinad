@@ -1,25 +1,17 @@
-<h1>Projektantrag Wetterstation</h1>
-
-<style>
-  h1{
-    text-align: center;
-    color: #0088cc;
-    text-decoration: underline;
-  }
-  h2{
-    text-decoration: underline;
-    color: #21517F;
-  }
-</style>
+<h1>Projektantrag LyriSearch</h1>
 
 <h2>Ausgangssituation</h2>
-<p>Wir sind zwei Schülerinnenen der HTL-Leonding, Abteilung für Medientechnik und gehen in die 3AHITM. Unsere Namen sind Juliana Naderer und Eva Hildenbrand und da wir in unseren drei Ausbildungsjahren schon öfter zusammen gearbeitet haben, möchten wir auch heuer ein Projekt miteinander machen.</p>
+<p>Wir sind zwei Schülerinnen der HTL-Leonding in der Abteilung für IT-Medientechnik. Wir, Juliana Naderer und Eva Hildenbrand gehen in die 3AHITM. Da wir schon oft Miteinander gearbeitet haben und dies sehr gerne machen, möchten wir dieses Projekt gemeinsam bestreiten.
+</p>
 
 <h2>Problemstellung</h2>
-<p>Man kann zwar im Internet recherchieren, wie warm bzw. kalt es draußen ist, aber das genaue Wetter zum Beispiel bei der HTL-Leonding weiß man nicht. Außerdem steht im Internet oft nicht, in welche Richtung der Wind weht und ob und wieviel es aktuell regnet.</p>
+<p>
+Wer kennt das nicht? Man hat schon lange einen Ohrwurm von einem Lied und kann sich nur ein paar Wörter der Lyrics erinnern. Man kann zwar nach den paar Wörtern googeln und mit viel Glück findet man ja das Lied, was meist nicht der Fall ist, oder man will nicht tausende von Youtube Videos durgehen und somit seine Zeit verschwenden.
+</p>
 
 <h2>Aufgabenstellung</h2>
-<p>Wir möchten gerne eine Wetterstation mit einem Raspberry PI bauen, mit der man die aktuelle Temperatur und die Luftfeuchtigkeit messen, die Windstärke und die Windrichtung bestimmen kann und ermittelt, ob und wieviel es gerade regnet. Dies möchten wir in einem bestimmten Zeitintervall an einen Webserver (der Lokal auf einem unserer Rechner läuft) übermitteln und auf einer Website anzeigen.</p>
+<p>Wir möchten gerne eine Lyric-Suchmaschine programmieren, wo man Lyric-Teile eingibt und somit sein gesuchtes Lied schneller finden kann. Wir holen uns die Lyrics von einer externen Lyric-Datenbank. Zum Beispiel von http://www.metrolyrics.com .
+</p>
 
 <h2>Nutzen</h2>
-<p>Durch unsere Wetterstation könnte man sich immer über das aktuelle Wetter bei dem Stand der Wetterstation informieren und wüsste, ob es gerade viel oder wenig regnet. Außerdem wüsste man die aktuelle Temperatur und die Luftfeuchtigkeit und ob ein starker Wind herrscht.</p>
+<p>Durch unser LyriSearch kann man viel Zeit sparen, indem man schneller Lyrics finden kann.</p>
