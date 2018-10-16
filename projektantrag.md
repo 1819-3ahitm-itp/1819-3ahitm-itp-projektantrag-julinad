@@ -1,7 +1,7 @@
 <h1>Projektantrag LyriSearch</h1>
 
 <h2>Ausgangssituation</h2>
-<p>Wir sind zwei Schülerinnen der HTL-Leonding in der Abteilung für IT-Medientechnik. Wir, Juliana Naderer und Eva Hildenbrand gehen in die 3AHITM. Da wir schon oft Miteinander gearbeitet haben und dies sehr gerne machen, möchten wir dieses Projekt gemeinsam bestreiten.
+<p>Wir sind zwei Schülerinnen der HTL-Leonding in der Abteilung für IT-Medientechnik. Wir, Juliana Naderer und Eva Hildenbrand gehen in die 3AHITM. Da wir schon oft miteinander gearbeitet haben und dies sehr gerne tun, möchten wir dieses Projekt gemeinsam machen.
 </p>
 
 <h2>Problemstellung</h2>
